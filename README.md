@@ -37,7 +37,7 @@
 ## Education
 
 - 📖 **Web Development**\
-📆 2011\
+📆 2021\
 📍 **Resilia Course** - Rio de janeiro, Brazil
 
   
