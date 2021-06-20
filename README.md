@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" /> 
   </p>
- ## 👨‍💻 Office [🔝](#welcome-badges-4-readmemd-profile)
+## 👨‍💻 Office [🔝](#welcome-badges-4-readmemd-profile)
   <p aling =center>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> 
