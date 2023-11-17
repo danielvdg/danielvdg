@@ -28,8 +28,8 @@
   📫 How to reach me: <a href='mailto:daniel.vdg@hotmail.com'>daniel.vdg@hotmail.com</a>
 </p>
 
-<details>
-<!--   <summary>📃 Resume</summary> -->
+<!-- <details>-->
+  <summary>📃 Resume</summary>
 
 
 ## Education
