@@ -29,7 +29,7 @@
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+<!--   <summary>📃 Resume</summary> -->
 
 
 ## Education
